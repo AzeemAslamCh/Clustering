@@ -1,1 +1,1 @@
-# Clustering Ecample for income dataset
+# Clustering Example for income dataset
